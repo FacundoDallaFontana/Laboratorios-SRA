@@ -1,6 +1,16 @@
 # Laboratorios-SRA
 Laboratorios de la materia "Sintesis de Redes Activas" de la Universidad Nacional de Córdoba
 
+Realizado por:
+
+-Bruno Gonzalez
+
+-Facundo Dalla Fontana
+
+-Justin Lafay
+
+-Antonin Kulyk
+
 # Simulaciones en LTspice (tutorial para agregar libreria de LM324 y LM6181)
 Primero encontrar la carpeta donde se encuentran los archivos del LTspice, en especial la carpeta LTspice\lib\sym
 
